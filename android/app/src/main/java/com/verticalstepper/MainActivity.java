@@ -4,7 +4,9 @@ import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;
 import java.util.HashMap;
-import android.os.Bundle
+import android.os.Bundle;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 public class MainActivity extends ReactActivity {
 
